@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] DARWIN_GRID_DEPLOY 2026-08-13 00:09 ($hash)
 - **[Changed]** [Moe autonomous] DARWIN_GRID_DEPLOY 2026-08-12 23:26 ($hash)
 - **[Changed]** [Moe autonomous] DARWIN_GRID_DEPLOY 2026-08-12 22:47 ($hash)
 - **[Changed]** [Moe autonomous] DARWIN_GRID_DEPLOY 2026-08-12 22:06 ($hash)
@@ -21,7 +22,6 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] DARWIN_GRID_DEPLOY 2026-08-12 08:12 ($hash)
 - **[Changed]** [Moe autonomous] DARWIN_GRID_DEPLOY 2026-08-12 06:34 ($hash)
 - **[Changed]** [Moe autonomous] DARWIN_GRID_DEPLOY 2026-08-12 04:10 ($hash)
-- **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
